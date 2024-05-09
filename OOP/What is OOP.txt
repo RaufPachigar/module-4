@@ -1,0 +1,52 @@
+What is OOP? List OOP concepts
+
+ANS;-
+OOPs stands for Object Oriented Programming System. A class acts as a blueprint for creating objects and defines their properties (attributes) and behaviors (methods). The main principles of OOP include Encapsulation, Inheritance, Polymorphism, and Abstraction.
+
+What is the difference between OOP and POP?
+ANS:-
+
+What is OOP:-
+
+Object-Oriented Programming (OOP) is a fundamental programming concept that developer uses for binding data and functions together using the concept of object and class.
+
+It helps the programmer to control and access the data.
+It also improves the code readability and reusability.
+Concepts used in OOP:
+
+Abstraction: Abstraction is the property due to which non-essential units are not visible to the user. It is the process of identifying only the essential characteristics of an object while ignoring irrelevant details. 
+
+Encapsulation: Encapsulation means wrapping up data within a single unit. It is a mechanism that binds together the code and data it manipulates. It protects the data from being accessed by using the code. In encapsulation, data or variables of a class are hidden from other classes.
+
+Inheritance: Inheritance means one entity acquiring properties or attributes of another entity.
+
+Polymorphism: Polymorphism is one of the essential pillars of Object-Oriented Programming concepts. It depicts the representation of one entity in multiple forms, such as method overloading, constructor overloading, etc. 
+
+Advantages and Disadvantages of OOP
+
+Maintenance of the Code: Maintaining and modifying the current program is very easy and time-saving.
+Redundancy of Data: OOP allows users to write a common class definition that can be used further.
+Security: It keeps security while offering the data.
+Size and Speed: OOP applications are usually large in size, which makes them slower than other applications.
+Difficult to Grasp: OOP has difficulty comprehending how objects, classes, methods, and actions interact.
+Learning OOP takes time.
+
+What is POP
+
+Procedure-Oriented Programming (POP) is a programming method that focuses on the functions or procedures needed for computation rather than the data itself. In simple terms, it is a step-by-step approach to decomposing a task into a set of variables and routines using a set of instructions.
+
+Advantages and Disadvantages of POP:-
+
+It has the ability to grasp the program very easily.
+Follows the top-down approach that makes the flow very simple.
+Allows to write the program without creating objects or classes.
+High risk of security as data is exposed to the entire software.
+Difficult to correlate with real-world objects.
+
+Key Difference Between OOP and POP:-
+
+The main purpose of OOP is on Data Security, whereas the main focus of POP is on how to get the task done. 
+OOP is Object-Oriented Programming, and POP is Procedure-Oriented Programming.
+OOP has three accessing modes: “Public”, “Private”, and “Protected,” while POP has no specific accessing modes.
+POP doesn’t support inheritance, while OOP supports inheritance that allows using attributes and functions of other classes by inheriting.
+In OOP, the virtual function supports polymorphism, whereas there is no concept of virtual function in POP. 
